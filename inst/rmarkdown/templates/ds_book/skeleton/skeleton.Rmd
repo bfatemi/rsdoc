@@ -1,0 +1,16 @@
+---
+title: "TITLE"
+author: "Bobby Fatemi"
+date: "`r Sys.Date()`"
+output:
+  bookdown::html_document2:
+    toc: true
+    fig_caption: true
+    template: flatly
+---
+
+## Introduction
+
+## Analysis
+
+## Conclusions

@@ -1,0 +1,23 @@
+
+hierarchy:
+  final:
+    visuals:
+      plots:
+      misc:
+  drafts:
+    visuals:
+      plots:
+      misc:
+    analysis:
+    PPT:
+    build:
+  candidates:
+    feedback:
+    resumes:
+  projects:
+  resources:
+    literature:
+    technical:
+    statistics:
+  templates:
+env_vars:

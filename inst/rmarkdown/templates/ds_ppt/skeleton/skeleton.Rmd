@@ -1,0 +1,48 @@
+---
+title: "Template Title"
+subtitle: "Template Subtitle"
+author: "Bobby Fatemi"
+date: "`r Sys.Date()`"
+category: ""
+subject: ""
+output:
+  powerpoint_presentation:
+    slide_level: 2
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Roadmap Milestones & Next Steps
+
+*Exploration* 
+*Selection* 
+*Development* 
+*Execution* 
+*Validation* 
+*Deployment* 
+
+- [x] Establish Hypothesis Supported with Exploratory Insights 
+- [x] Selection of Model and Consideration Dataset
+- [x] Analysis to Define and Engineer Model Features
+- [ ] Initial Results and Model Performance
+- [ ] Validation
+- [ ] Model Released
+
+
+# Section header (Slide 3)
+
+
+### Slide Title (Slide 4)
+
+*Slide Content (by default this content sets the slide level to three)*
+
+#### Slide content header A (Slide 4)
+
+##### Slide content header B (Slide 4)
+
+* Unnumbered list
+* Unnumbered list
+
+> This is a blockquote
